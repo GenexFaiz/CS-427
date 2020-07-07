@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 66b135031aa0f4d108b23e6660c9df9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -283226905570801082
+    second: Charlotte-Walking_0
+  - first:
+      213: -3011384717601244943
+    second: Charlotte-Walking_1
+  - first:
+      213: -5261908737844443887
+    second: Charlotte-Walking_2
+  - first:
+      213: -7900168028404576693
+    second: Charlotte-Walking_3
+  - first:
+      213: -2975979430996275568
+    second: Charlotte-Walking_4
+  - first:
+      213: -6033336589046911195
+    second: Charlotte-Walking_5
+  - first:
+      213: -8442626030913232107
+    second: Charlotte-Walking_6
+  - first:
+      213: -8777625367323710065
+    second: Charlotte-Walking_7
+  - first:
+      213: -7786757329067630582
+    second: Charlotte-Walking_8
+  - first:
+      213: 5303026146411355452
+    second: Charlotte-Walking_9
+  - first:
+      213: 8319830952729705081
+    second: Charlotte-Walking_10
+  - first:
+      213: -4791062272838705367
+    second: Charlotte-Walking_11
+  - first:
+      213: -545085315996644354
+    second: Charlotte-Walking_12
+  - first:
+      213: -4272817802238862775
+    second: Charlotte-Walking_13
+  - first:
+      213: -8090813684086039512
+    second: Charlotte-Walking_14
+  - first:
+      213: 5989114358467216512
+    second: Charlotte-Walking_15
+  - first:
+      213: 406792427800560463
+    second: Charlotte-Walking_16
+  - first:
+      213: 1539627645051359429
+    second: Charlotte-Walking_17
+  - first:
+      213: 7031430981070302935
+    second: Charlotte-Walking_18
+  - first:
+      213: 6079297054181448980
+    second: Charlotte-Walking_19
+  - first:
+      213: 3790600565531288039
+    second: Charlotte-Walking_20
+  - first:
+      213: 3918935122190408546
+    second: Charlotte-Walking_21
+  - first:
+      213: 7665523207371593210
+    second: Charlotte-Walking_22
+  - first:
+      213: -8813839471451922059
+    second: Charlotte-Walking_23
+  - first:
+      213: -1969268800769122552
+    second: Charlotte-Walking_24
+  - first:
+      213: 2625559151753091285
+    second: Charlotte-Walking_25
+  - first:
+      213: -1796715948950608261
+    second: Charlotte-Walking_26
+  - first:
+      213: 6594504366069477907
+    second: Charlotte-Walking_27
+  - first:
+      213: -1399613844368125919
+    second: Charlotte-Walking_28
+  - first:
+      213: 6200800220569795167
+    second: Charlotte-Walking_29
+  - first:
+      213: -4281346193992535901
+    second: Charlotte-Walking_30
+  - first:
+      213: -8628349309870922265
+    second: Charlotte-Walking_31
+  - first:
+      213: 4659033061470297064
+    second: Charlotte-Walking_32
+  - first:
+      213: -5549678051188155768
+    second: Charlotte-Walking_33
+  - first:
+      213: -757495214733006421
+    second: Charlotte-Walking_34
+  - first:
+      213: 6669769304960757349
+    second: Charlotte-Walking_35
+  - first:
+      213: 1874491915255894150
+    second: Charlotte-Walking_36
+  - first:
+      213: -9031963409921616698
+    second: Charlotte-Walking_37
+  - first:
+      213: -6248077656246892299
+    second: Charlotte-Walking_38
+  - first:
+      213: 5604335394712743420
+    second: Charlotte-Walking_39
+  - first:
+      213: 5966605360764716805
+    second: Charlotte-Walking_40
+  - first:
+      213: 4697924633948210006
+    second: Charlotte-Walking_41
+  - first:
+      213: -6500856323945807094
+    second: Charlotte-Walking_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charlotte-Walking_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 148
+        width: 97
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a8e9641a6c11cf0800000000000000
+      internalID: -283226905570801082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 149
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f87659ed896536d0800000000000000
+      internalID: -3011384717601244943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 149
+        width: 106
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150248b1e1f9f6b0800000000000000
+      internalID: -5261908737844443887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_3
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 148
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0c09f807fc5290800000000000000
+      internalID: -7900168028404576693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 149
+        width: 114
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e0994997233b6d0800000000000000
+      internalID: -2975979430996275568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_5
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fed779658454ca0800000000000000
+      internalID: -6033336589046911195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 12
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51363f71b54c5da80800000000000000
+      internalID: -8442626030913232107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_7
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 11
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d6639fb3c9f2680800000000000000
+      internalID: -8777625367323710065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_8
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 11
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0021c81771efe390800000000000000
+      internalID: -7786757329067630582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charlotte-Walking_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 11
+        width: 104
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d157bfe22289940800000000000000
+      internalID: 5303026146411355452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

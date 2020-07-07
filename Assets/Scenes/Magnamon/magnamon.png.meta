@@ -1,0 +1,3668 @@
+fileFormatVersion: 2
+guid: 605db2dece5c94417872d1e65821bf4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8904515305920199277
+    second: magnamon_0
+  - first:
+      213: 2998252148755905221
+    second: magnamon_1
+  - first:
+      213: 168854802344183097
+    second: magnamon_2
+  - first:
+      213: -9102756603126230202
+    second: magnamon_3
+  - first:
+      213: -7644056373236065327
+    second: magnamon_4
+  - first:
+      213: -4566195764703001200
+    second: magnamon_5
+  - first:
+      213: 2706144629902563622
+    second: magnamon_6
+  - first:
+      213: 1037744837866698389
+    second: magnamon_7
+  - first:
+      213: 6627748274482291630
+    second: magnamon_8
+  - first:
+      213: -2092842312660084118
+    second: magnamon_9
+  - first:
+      213: 2878932081198510243
+    second: magnamon_10
+  - first:
+      213: 3595039389888356288
+    second: magnamon_11
+  - first:
+      213: -8491614272111321991
+    second: magnamon_12
+  - first:
+      213: 6205728155606540319
+    second: magnamon_13
+  - first:
+      213: 6346256997618001969
+    second: magnamon_14
+  - first:
+      213: 3918435352204453754
+    second: magnamon_15
+  - first:
+      213: -8267350425292322386
+    second: magnamon_16
+  - first:
+      213: 1707068235447663254
+    second: magnamon_17
+  - first:
+      213: 5997705240903391591
+    second: magnamon_18
+  - first:
+      213: -2078192561357948990
+    second: magnamon_19
+  - first:
+      213: -7746600691496643500
+    second: magnamon_20
+  - first:
+      213: -8973962636479687750
+    second: magnamon_21
+  - first:
+      213: -806729257183805980
+    second: magnamon_22
+  - first:
+      213: -342212615496023331
+    second: magnamon_23
+  - first:
+      213: -2001405962947778415
+    second: magnamon_24
+  - first:
+      213: -7690109939500019191
+    second: magnamon_25
+  - first:
+      213: -4967207179420278022
+    second: magnamon_26
+  - first:
+      213: -7373055247859022982
+    second: magnamon_27
+  - first:
+      213: -7543052960245230007
+    second: magnamon_28
+  - first:
+      213: -7374650473017081502
+    second: magnamon_29
+  - first:
+      213: 4226454647464749671
+    second: magnamon_30
+  - first:
+      213: -3125246087624937713
+    second: magnamon_31
+  - first:
+      213: 3925988002015935242
+    second: magnamon_32
+  - first:
+      213: -3998288718319090920
+    second: magnamon_33
+  - first:
+      213: 752633881148007519
+    second: magnamon_34
+  - first:
+      213: 9073594384554730226
+    second: magnamon_35
+  - first:
+      213: -7441329130119129760
+    second: magnamon_36
+  - first:
+      213: 5417146375567078822
+    second: magnamon_37
+  - first:
+      213: 4726046681624881483
+    second: magnamon_38
+  - first:
+      213: 6734678996639165160
+    second: magnamon_39
+  - first:
+      213: 3746712936355687106
+    second: magnamon_40
+  - first:
+      213: -8046223122161326375
+    second: magnamon_41
+  - first:
+      213: 347856817745268980
+    second: magnamon_42
+  - first:
+      213: 8733830512134618008
+    second: magnamon_43
+  - first:
+      213: 5437135606719066143
+    second: magnamon_44
+  - first:
+      213: 2707115570913596121
+    second: jihad_8
+  - first:
+      213: 7965247817592019547
+    second: jihad_9
+  - first:
+      213: -6823168965503162634
+    second: jihad_10
+  - first:
+      213: 4530972763943469524
+    second: jihad_11
+  - first:
+      213: 1724365038436238364
+    second: magnamon_49
+  - first:
+      213: 5672992442802409284
+    second: magnamon_50
+  - first:
+      213: -4872659976426626635
+    second: magnamon_51
+  - first:
+      213: -1231194312325653250
+    second: jihad_4
+  - first:
+      213: -8762643433291149838
+    second: jihad_5
+  - first:
+      213: 4508577168778789624
+    second: magnamon_54
+  - first:
+      213: 6120669501874329305
+    second: jihad_6
+  - first:
+      213: 1741943107296972739
+    second: magnamon_56
+  - first:
+      213: 2702765600553444129
+    second: jihad_7
+  - first:
+      213: -2291209269844458656
+    second: magnamon_58
+  - first:
+      213: 4978279175391765110
+    second: magnamon_59
+  - first:
+      213: 5167277537837620918
+    second: magnamon_60
+  - first:
+      213: -6320959513101835554
+    second: magnamon_61
+  - first:
+      213: -7734728443820964023
+    second: jihad_2
+  - first:
+      213: -9007950056436887000
+    second: jihad_3
+  - first:
+      213: -1638978827443993124
+    second: magnamon_64
+  - first:
+      213: 581749654766612636
+    second: magnamon_65
+  - first:
+      213: 1162681625314998745
+    second: jihad_12
+  - first:
+      213: 1347606418411653580
+    second: jihad_13
+  - first:
+      213: -4767230821633603091
+    second: jihad_1
+  - first:
+      213: -1713570689120662165
+    second: magnamon_69
+  - first:
+      213: -79866247094801791
+    second: magnamon_70
+  - first:
+      213: 655082134189097098
+    second: magnamon_71
+  - first:
+      213: 2739978973456987535
+    second: magnamon_72
+  - first:
+      213: -5355503202383299983
+    second: magnamon_73
+  - first:
+      213: 6787462403066821231
+    second: magnamon_74
+  - first:
+      213: -6564200939868107062
+    second: magnamon_75
+  - first:
+      213: -5955491830462507817
+    second: magnamon_76
+  - first:
+      213: -2788842934862468608
+    second: magnamon_77
+  - first:
+      213: -384686247854134774
+    second: magnamon_78
+  - first:
+      213: 8149911845135499670
+    second: magnamon_79
+  - first:
+      213: 57610254956964561
+    second: magnamon_80
+  - first:
+      213: -7178949993853827794
+    second: magnamon_81
+  - first:
+      213: -6811189619830723845
+    second: magnamon_82
+  - first:
+      213: 5212745540874805324
+    second: magnamon_83
+  - first:
+      213: 6554422907646529566
+    second: magnamon_84
+  - first:
+      213: -2419386503089082396
+    second: magnamon_85
+  - first:
+      213: 1772191813041174762
+    second: magnamon_86
+  - first:
+      213: 8371591155363435885
+    second: magnamon_87
+  - first:
+      213: -6157566302179539610
+    second: magnamon_88
+  - first:
+      213: -9111022820351021194
+    second: magnamon_89
+  - first:
+      213: -1520825698302954977
+    second: magnamon_90
+  - first:
+      213: -6813998733932791988
+    second: magnamon_91
+  - first:
+      213: 9083155012976326768
+    second: magnamon_92
+  - first:
+      213: -4895796147056901965
+    second: magnamon_93
+  - first:
+      213: 116178129661125814
+    second: magnamon_94
+  - first:
+      213: 2536311711161742437
+    second: magnamon_95
+  - first:
+      213: 5896395787493918083
+    second: magnamon_96
+  - first:
+      213: 1686522792546773320
+    second: magnamon_97
+  - first:
+      213: 260240154120648177
+    second: magnamon_98
+  - first:
+      213: -2541041481898234507
+    second: magnamon_99
+  - first:
+      213: 2859574348874093295
+    second: magnamon_100
+  - first:
+      213: 8280376771485898480
+    second: magnamon_101
+  - first:
+      213: 5388463338598536325
+    second: magnamon_102
+  - first:
+      213: 3740845856942462399
+    second: magnamon_103
+  - first:
+      213: -2216893155089430938
+    second: magnamon_104
+  - first:
+      213: -2330631618875144121
+    second: magnamon_105
+  - first:
+      213: 1171198059120735752
+    second: magnamon_106
+  - first:
+      213: 3411500607354375141
+    second: magnamon_107
+  - first:
+      213: 101260725463213905
+    second: magnamon_108
+  - first:
+      213: 6936119424124965412
+    second: magnamon_109
+  - first:
+      213: -5274561292225722011
+    second: magnamon_110
+  - first:
+      213: -2436639154149001545
+    second: magnamon_111
+  - first:
+      213: 7039274107014723256
+    second: magnamon_112
+  - first:
+      213: -5290048637161530189
+    second: magnamon_113
+  - first:
+      213: -4783189805183333715
+    second: magnamon_114
+  - first:
+      213: 3798364661717081758
+    second: magnamon_115
+  - first:
+      213: 2920884753765492714
+    second: magnamon_116
+  - first:
+      213: -2631881083331971777
+    second: magnamon_117
+  - first:
+      213: -5788542117376945762
+    second: magnamon_118
+  - first:
+      213: -3637866767544068222
+    second: magnamon_119
+  - first:
+      213: -514060299752061729
+    second: magnamon_120
+  - first:
+      213: 3664296969862027896
+    second: magnamon_121
+  - first:
+      213: 8971213226459882240
+    second: magnamon_122
+  - first:
+      213: 7442354217968551132
+    second: magnamon_123
+  - first:
+      213: -1083065802514983308
+    second: magnamon_124
+  - first:
+      213: -9218085513518559643
+    second: magnamon_125
+  - first:
+      213: 7834912679167404646
+    second: magnamon_126
+  - first:
+      213: 1931051431597361275
+    second: magnamon_127
+  - first:
+      213: 5776223408743391192
+    second: magnamon_128
+  - first:
+      213: 1628621585520439412
+    second: magnamon_129
+  - first:
+      213: 1623924124243502808
+    second: magnamon_130
+  - first:
+      213: -6940360083122607341
+    second: magnamon_131
+  - first:
+      213: -8582349785639590290
+    second: magnamon_132
+  - first:
+      213: -7611230383980414491
+    second: magnamon_133
+  - first:
+      213: 4131418380653224950
+    second: magnamon_134
+  - first:
+      213: 5912203285121044592
+    second: magnamon_135
+  - first:
+      213: -1652241483313589896
+    second: magnamon_136
+  - first:
+      213: -7617732763729377549
+    second: magnamon_137
+  - first:
+      213: -1457675660661143771
+    second: magnamon_138
+  - first:
+      213: -630878842097973032
+    second: magnamon_139
+  - first:
+      213: -2487467202744422113
+    second: magnamon_140
+  - first:
+      213: -2220440808969173698
+    second: magnamon_141
+  - first:
+      213: 8955159740524251447
+    second: magnamon_142
+  - first:
+      213: -5609725463804431661
+    second: magnamon_143
+  - first:
+      213: 6572598057846156303
+    second: magnamon_144
+  - first:
+      213: 3268941914413281005
+    second: magnamon_145
+  - first:
+      213: 6618265998696880985
+    second: magnamon_146
+  - first:
+      213: 7280772257110465358
+    second: magnamon_147
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: magnamon_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 441
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3950995e18ecc6480800000000000000
+      internalID: -8904515305920199277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 441
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cab5a1a17eeb9920800000000000000
+      internalID: 2998252148755905221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 390
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93508505c84e75200800000000000000
+      internalID: 168854802344183097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 390
+        width: 41
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d1d119138ca180800000000000000
+      internalID: -9102756603126230202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_4
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 390
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db143e7a3bdae590800000000000000
+      internalID: -7644056373236065327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 390
+        width: 41
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0950cfd052d91a0c0800000000000000
+      internalID: -4566195764703001200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 390
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6295c2004382e8520800000000000000
+      internalID: 2706144629902563622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 390
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5963a8c8e6fc66e00800000000000000
+      internalID: 1037744837866698389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 385
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3a939b0fd7afb50800000000000000
+      internalID: 6627748274482291630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_9
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 385
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a1df6410bb4f2e0800000000000000
+      internalID: -2092842312660084118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_10
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 385
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a03050897504f720800000000000000
+      internalID: 2878932081198510243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 383
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf15db174524e130800000000000000
+      internalID: 3595039389888356288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 385
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cda2d5fc9b72a80800000000000000
+      internalID: -8491614272111321991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_13
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 385
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10619fc0ec2f1650800000000000000
+      internalID: 6205728155606540319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_14
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 385
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138ab5c8d1f621850800000000000000
+      internalID: 6346256997618001969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 382
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77aa7b2134116630800000000000000
+      internalID: 3918435352204453754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_16
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 337
+        width: 169
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9c6ca2798744d80800000000000000
+      internalID: -8267350425292322386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_17
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 382
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af5350489b0b710800000000000000
+      internalID: 1707068235447663254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_18
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 382
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699b8fa3212c3350800000000000000
+      internalID: 5997705240903391591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_19
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 382
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7766d40e6c823e0800000000000000
+      internalID: -2078192561357948990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 371
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4541c8ed6bb8e7490800000000000000
+      internalID: -7746600691496643500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_21
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 369
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab310093784167380800000000000000
+      internalID: -8973962636479687750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_22
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 331
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4edf4abc30cedc4f0800000000000000
+      internalID: -806729257183805980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c3b77077304bf0800000000000000
+      internalID: -342212615496023331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 322
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198262f61e39934e0800000000000000
+      internalID: -2001405962947778415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 322
+        width: 108
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902966401cd374590800000000000000
+      internalID: -7690109939500019191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 321
+        width: 41
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af262e0436fe01bb0800000000000000
+      internalID: -4967207179420278022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_27
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 322
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a738802f055ada990800000000000000
+      internalID: -7373055247859022982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_28
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 322
+        width: 108
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946df962c41b15790800000000000000
+      internalID: -7543052960245230007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_29
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 325
+        width: 40
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618625a77af7a990800000000000000
+      internalID: -7374650473017081502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 325
+        width: 39
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6f61fb1267aa30800000000000000
+      internalID: 4226454647464749671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_31
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 324
+        width: 47
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0faf67dd35e0a4d0800000000000000
+      internalID: -3125246087624937713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 278
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bfa9c7949eb7630800000000000000
+      internalID: 3925988002015935242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 278
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813832338993388c0800000000000000
+      internalID: -3998288718319090920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 278
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5420cbf684e17a00800000000000000
+      internalID: 752633881148007519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 278
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22d5fc402ebed70800000000000000
+      internalID: 9073594384554730226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 278
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0659b7ef4961bb890800000000000000
+      internalID: -7441329130119129760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_37
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 278
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a578f36de19d2b40800000000000000
+      internalID: 5417146375567078822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_38
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 278
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b492a22da6a469140800000000000000
+      internalID: 4726046681624881483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_39
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 278
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea26f69dd2667d50800000000000000
+      internalID: 6734678996639165160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 278
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca67de809ffef330800000000000000
+      internalID: 3746712936355687106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_41
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 269
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d62a0c73b2165090800000000000000
+      internalID: -8046223122161326375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_42
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 267
+        width: 26
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f09766cee5d3d400800000000000000
+      internalID: 347856817745268980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_43
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 267
+        width: 34
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b7044b39cc43970800000000000000
+      internalID: 8733830512134618008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_44
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 269
+        width: 8
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f103e12f606947b40800000000000000
+      internalID: 5437135606719066143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 186
+        width: 127
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2db32d44b919520800000000000000
+      internalID: 2707115570913596121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 186
+        width: 114
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a178b30be3a8e60800000000000000
+      internalID: 7965247817592019547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 186
+        width: 112
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e6b00afb3f41a0800000000000000
+      internalID: -6823168965503162634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_11
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 186
+        width: 120
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d102d109bf31ee30800000000000000
+      internalID: 4530972763943469524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 248
+        width: 9
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14481bcddc2ee710800000000000000
+      internalID: 1724365038436238364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 260
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f86b6e1948abe40800000000000000
+      internalID: 5672992442802409284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_51
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 254
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1e3d16195d06cb0800000000000000
+      internalID: -4872659976426626635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 186
+        width: 61
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc195ccb4be9eee0800000000000000
+      internalID: -1231194312325653250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 186
+        width: 60
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd85415936d46680800000000000000
+      internalID: -8762643433291149838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_54
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 232
+        width: 4
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f20f7b2c0fa19e30800000000000000
+      internalID: 4508577168778789624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 186
+        width: 62
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d659c6bb7cf0f450800000000000000
+      internalID: 6120669501874329305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 243
+        width: 5
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf4061e600ac2810800000000000000
+      internalID: 1741943107296972739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 186
+        width: 111
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123222c6ef6228520800000000000000
+      internalID: 2702765600553444129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_58
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 262
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063c6d4fe4df330e0800000000000000
+      internalID: -2291209269844458656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_59
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 260
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67263f1b886661540800000000000000
+      internalID: 4978279175391765110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_60
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 262
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be9aa21b8bd5b740800000000000000
+      internalID: 5167277537837620918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_61
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 260
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed260fd00d07748a0800000000000000
+      internalID: -6320959513101835554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 51
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94701ffe579b8a490800000000000000
+      internalID: -7734728443820964023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 186
+        width: 61
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8229e9b56255df280800000000000000
+      internalID: -9007950056436887000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_64
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 238
+        width: 4
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd580dba07d2149e0800000000000000
+      internalID: -1638978827443993124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_65
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 212
+        width: 12
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90f1909a3ac21800800000000000000
+      internalID: 581749654766612636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_12
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 186
+        width: 48
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d936cf27cca22010800000000000000
+      internalID: 1162681625314998745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_13
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 186
+        width: 39
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9867ac5e8a3b210800000000000000
+      internalID: 1347606418411653580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jihad_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 186
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94c3a53d467ddb0800000000000000
+      internalID: -4767230821633603091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 218
+        width: 5
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d0171898c2838e0800000000000000
+      internalID: -1713570689120662165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_70
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 207
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aee58421244eef0800000000000000
+      internalID: -79866247094801791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 205
+        width: 13
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80cb03fab1571900800000000000000
+      internalID: 655082134189097098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 202
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8571fcfb5c560620800000000000000
+      internalID: 2739978973456987535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_73
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 202
+        width: 4
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17af97c463e6da5b0800000000000000
+      internalID: -5355503202383299983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_74
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 167
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6afd151819e13e50800000000000000
+      internalID: 6787462403066821231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 167
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace40e8160647e4a0800000000000000
+      internalID: -6564200939868107062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 165
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d49a86dbb7d95da0800000000000000
+      internalID: -5955491830462507817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_77
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 167
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2a2d602a0c49d0800000000000000
+      internalID: -2788842934862468608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 167
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a2dae45e159aaf0800000000000000
+      internalID: -384686247854134774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_79
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 167
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691cc00a4ad4a1170800000000000000
+      internalID: 8149911845135499670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_80
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 167
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da212eb83cacc000800000000000000
+      internalID: 57610254956964561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_81
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 167
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25cc0c240f3f5c90800000000000000
+      internalID: -7178949993853827794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 167
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa6924c02bc971a0800000000000000
+      internalID: -6811189619830723845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_83
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 167
+        width: 7
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c40285c7374675840800000000000000
+      internalID: 5212745540874805324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_84
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 167
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1054fd58ecf5fa50800000000000000
+      internalID: 6554422907646529566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_85
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 171
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef200d3bcc9c6ed0800000000000000
+      internalID: -2419386503089082396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_86
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 115
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bc228017189810800000000000000
+      internalID: 1772191813041174762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_87
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 115
+        width: 49
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655d3c1dcddd2470800000000000000
+      internalID: 8371591155363435885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_88
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 158
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654ca5821eeb8aa0800000000000000
+      internalID: -6157566302179539610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 162
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fef7464052f8180800000000000000
+      internalID: -9111022820351021194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_90
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 165
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12fd57c511f4eae0800000000000000
+      internalID: -1520825698302954977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_91
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 159
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4779fbe040df61a0800000000000000
+      internalID: -6813998733932791988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_92
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 155
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07833441c59dd0e70800000000000000
+      internalID: 9083155012976326768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_93
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 115
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b082f1e753ae0cb0800000000000000
+      internalID: -4895796147056901965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_94
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 115
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ee15b46fbc9100800000000000000
+      internalID: 116178129661125814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_95
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 115
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5647577301ac23320800000000000000
+      internalID: 2536311711161742437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_96
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 115
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3854fa07ab434d150800000000000000
+      internalID: 5896395787493918083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_97
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 155
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849a9535b8bb76710800000000000000
+      internalID: 1686522792546773320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_98
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 151
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f577a69a0f8c9300800000000000000
+      internalID: 260240154120648177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_99
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 151
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d6ce73c386cbcd0800000000000000
+      internalID: -2541041481898234507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_100
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 151
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2957938bf3fa720800000000000000
+      internalID: 2859574348874093295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_101
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 151
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f610d66dcec9e270800000000000000
+      internalID: 8280376771485898480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_102
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 151
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584916e6bdaa7ca40800000000000000
+      internalID: 5388463338598536325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 151
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51c8eac772ae330800000000000000
+      internalID: 3740845856942462399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_104
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 151
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66646e9cb630c31e0800000000000000
+      internalID: -2216893155089430938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_105
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 151
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74847ae04eee7afd0800000000000000
+      internalID: -2330631618875144121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_106
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 151
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b483fd6ee04010800000000000000
+      internalID: 1171198059120735752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 115
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb036c3ab5185f20800000000000000
+      internalID: 3411500607354375141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_108
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157eee2e710c76100800000000000000
+      internalID: 101260725463213905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_109
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 115
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d7aafddb024060800000000000000
+      internalID: 6936119424124965412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 147
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694cd6537efcc6b0800000000000000
+      internalID: -5274561292225722011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_111
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 115
+        width: 45
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6f32369915f2ed0800000000000000
+      internalID: -2436639154149001545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_112
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 141
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6b731318680b160800000000000000
+      internalID: 7039274107014723256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_113
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 101
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc9279dac8f596b0800000000000000
+      internalID: -5290048637161530189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_114
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 101
+        width: 43
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa07c0f632be9db0800000000000000
+      internalID: -4783189805183333715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_115
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 101
+        width: 42
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e1b05098086b430800000000000000
+      internalID: 3798364661717081758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_116
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 82
+        width: 85
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7eb024531198820800000000000000
+      internalID: 2920884753765492714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_117
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 101
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f357de8591ea97bd0800000000000000
+      internalID: -2631881083331971777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_118
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 101
+        width: 40
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e911c5efc97faafa0800000000000000
+      internalID: -5788542117376945762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_119
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 101
+        width: 44
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287565cf273b38dc0800000000000000
+      internalID: -3637866767544068222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_120
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 101
+        width: 50
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4c52881e0bdd8f0800000000000000
+      internalID: -514060299752061729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_121
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 101
+        width: 46
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a9a280ea23ad230800000000000000
+      internalID: 3664296969862027896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_122
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 101
+        width: 45
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036d6fd5e6208c70800000000000000
+      internalID: 8971213226459882240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_123
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 97
+        width: 9
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd445aedabd884760800000000000000
+      internalID: 7442354217968551132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_124
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 97
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47698b4146d28f0f0800000000000000
+      internalID: -1083065802514983308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 97
+        width: 12
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e4d81a018c21080800000000000000
+      internalID: -9218085513518559643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_126
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 97
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2aff02933bbc60800000000000000
+      internalID: 7834912679167404646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_127
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 97
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78ce5fbb097cca10800000000000000
+      internalID: 1931051431597361275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_128
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 92
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df12752694492050800000000000000
+      internalID: 5776223408743391192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_129
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 90
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470ba7604b60a9610800000000000000
+      internalID: 1628621585520439412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_130
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 92
+        width: 12
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a8b71366598610800000000000000
+      internalID: 1623924124243502808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_131
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 84
+        width: 29
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b2d28a643eeaf90800000000000000
+      internalID: -6940360083122607341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 92
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e666dc8575e55e880800000000000000
+      internalID: -8582349785639590290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_133
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 90
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9ff23ba4a7f5690800000000000000
+      internalID: -7611230383980414491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_134
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 90
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3ea55c02fb55930800000000000000
+      internalID: 4131418380653224950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_135
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 68
+        width: 85
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0709989409d5c0250800000000000000
+      internalID: 5912203285121044592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_136
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 83
+        width: 13
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871dde7ff1f0219e0800000000000000
+      internalID: -1652241483313589896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_137
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 86
+        width: 11
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f64e007960684690800000000000000
+      internalID: -7617732763729377549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_138
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 84
+        width: 8
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5274f80b5bb45cbe0800000000000000
+      internalID: -1457675660661143771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_139
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 83
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c070290bae37f0800000000000000
+      internalID: -630878842097973032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_140
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 79
+        width: 21
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11fbfd12cdba7dd0800000000000000
+      internalID: -2487467202744422113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_141
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 83
+        width: 19
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e358c9049d86f21e0800000000000000
+      internalID: -2220440808969173698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_142
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 79
+        width: 11
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739c3d8665e174c70800000000000000
+      internalID: 8955159740524251447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_143
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 79
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2397a89604622b0800000000000000
+      internalID: -5609725463804431661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_144
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 61
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ca7594c1f863b50800000000000000
+      internalID: 6572598057846156303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_145
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 62
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee2dfff95d9d5d20800000000000000
+      internalID: 3268941914413281005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_146
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 63
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b9f595cddc8db50800000000000000
+      internalID: 6618265998696880985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: magnamon_147
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 5
+        width: 327
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b969beacf7a0560800000000000000
+      internalID: 7280772257110465358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
