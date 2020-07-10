@@ -1,0 +1,836 @@
+fileFormatVersion: 2
+guid: 6fe7bf9d7488a4e12890f03432521966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -909812580007521060
+    second: rising_destroyer_0
+  - first:
+      213: 4937314967387368407
+    second: rising_destroyer_1
+  - first:
+      213: 5351991684502609479
+    second: rising_destroyer_2
+  - first:
+      213: -2085445035248638886
+    second: rising_destroyer_3
+  - first:
+      213: -9085580623586404941
+    second: rising_destroyer_4
+  - first:
+      213: 2113577529959553212
+    second: rising_destroyer_5
+  - first:
+      213: -5500607762112982490
+    second: rising_destroyer_6
+  - first:
+      213: -3345224238538762886
+    second: rising_destroyer_7
+  - first:
+      213: 6098356434939816997
+    second: rising_destroyer_8
+  - first:
+      213: -5653209100159077256
+    second: rising_destroyer_9
+  - first:
+      213: 7812554835489562577
+    second: rising_destroyer_10
+  - first:
+      213: 1321100209044893340
+    second: rising_destroyer_11
+  - first:
+      213: 8174548431828824983
+    second: rising_destroyer5
+  - first:
+      213: 6315875426188091838
+    second: rising_destroyer6
+  - first:
+      213: 1138089810953645296
+    second: rising_destroyer7
+  - first:
+      213: 8687530525945465840
+    second: rising_destroyer_15
+  - first:
+      213: 6366850722183822717
+    second: rising_destroyer_16
+  - first:
+      213: 8436733981607120158
+    second: rising_destroyer_17
+  - first:
+      213: -3889179897880627727
+    second: rising_destroyer3
+  - first:
+      213: 4428519501410609757
+    second: rising_destroyer_19
+  - first:
+      213: -8486779410871712555
+    second: rising_destroyer1
+  - first:
+      213: 4533965518002639175
+    second: rising_destroyer2
+  - first:
+      213: 6817991754360341715
+    second: rising_destroyer4
+  - first:
+      213: 3978993629332822244
+    second: rising_destroyer_23
+  - first:
+      213: -2406190131406905401
+    second: rising_destroyer8
+  - first:
+      213: -3663660099847073308
+    second: rising_destroyer_25
+  - first:
+      213: -6891347849622381075
+    second: rising_destroyer9
+  - first:
+      213: -7745145188336342429
+    second: rising_destroyer_27
+  - first:
+      213: -8774147586522099785
+    second: rising_destroyer_28
+  - first:
+      213: 9036122534954582873
+    second: rising_destroyer_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rising_destroyer_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd458746742bf53f0800000000000000
+      internalID: -909812580007521060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbe757cdcdd48440800000000000000
+      internalID: 4937314967387368407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e5f9bb418164a40800000000000000
+      internalID: 5351991684502609479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 66
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5427632ac20f03e0800000000000000
+      internalID: -2085445035248638886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5d5f07f8889e180800000000000000
+      internalID: -9085580623586404941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89c76b09fe45d10800000000000000
+      internalID: 2113577529959553212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 67
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622df72426ae9a3b0800000000000000
+      internalID: -5500607762112982490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75dedf57406391d0800000000000000
+      internalID: -3345224238538762886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c2e4afdd6b1a450800000000000000
+      internalID: 6098356434939816997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_9
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 66
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87433008644cb81b0800000000000000
+      internalID: -5653209100159077256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9d9dea35cb6c60800000000000000
+      internalID: 7812554835489562577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 67
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ea0d004ad755210800000000000000
+      internalID: 1321100209044893340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 65
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7933266fc74d17170800000000000000
+      internalID: 8174548431828824983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer6
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2
+        width: 73
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb16f87bc3f76a750800000000000000
+      internalID: 6315875426188091838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer7
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2
+        width: 81
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc226837ae4bcf00800000000000000
+      internalID: 1138089810953645296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_15
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 63
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb875e1cfe409870800000000000000
+      internalID: 8687530525945465840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 32
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7db4b1bff89b5850800000000000000
+      internalID: 6366850722183822717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_17
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 68
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1dc8264bdc451570800000000000000
+      internalID: 8436733981607120158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2
+        width: 62
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f53c371d7bd60ac0800000000000000
+      internalID: -3889179897880627727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_19
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 59
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2872f503457d30800000000000000
+      internalID: 4428519501410609757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d484e73717e83a80800000000000000
+      internalID: -8486779410871712555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741da6cdd91ebee30800000000000000
+      internalID: 4533965518002639175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 62
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c038906f5e9e50800000000000000
+      internalID: 6817991754360341715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_23
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 11
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8dcefcf99383730800000000000000
+      internalID: 3978993629332822244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer8
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2
+        width: 82
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd073f2de7b9ed0800000000000000
+      internalID: -2406190131406905401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_25
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d7d2dc80182dc0800000000000000
+      internalID: -3663660099847073308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer9
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2
+        width: 57
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded1b9784a30d50a0800000000000000
+      internalID: -6891347849622381075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_27
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 25
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ae26b9c77b38490800000000000000
+      internalID: -7745145188336342429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 60
+        width: 77
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfcf7ae147fb3680800000000000000
+      internalID: -8774147586522099785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rising_destroyer_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 87
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953ced2f191c66d70800000000000000
+      internalID: 9036122534954582873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
